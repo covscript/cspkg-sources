@@ -3,6 +3,7 @@
     "curl": "https://raw.githubusercontent.com/covscript/cspkg-sources/main/windows/x86_64/curl.json",
     "darwin": "https://raw.githubusercontent.com/covscript/cspkg-sources/main/windows/x86_64/darwin.json",
     "database": "https://raw.githubusercontent.com/covscript/cspkg-sources/main/windows/x86_64/database.json",
+    "imgui_font": "https://raw.githubusercontent.com/covscript/cspkg-sources/main/windows/x86_64/imgui_font.json",
     "imgui_gl2": "https://raw.githubusercontent.com/covscript/cspkg-sources/main/windows/x86_64/imgui_gl2.json",
     "imgui": "https://raw.githubusercontent.com/covscript/cspkg-sources/main/windows/x86_64/imgui.json",
     "network": "https://raw.githubusercontent.com/covscript/cspkg-sources/main/windows/x86_64/network.json",
