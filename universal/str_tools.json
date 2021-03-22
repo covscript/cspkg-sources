@@ -3,6 +3,6 @@
     "Info": "String Tools",
     "Author": "CovScript Organization",
     "Version": "1.0.0",
-    "Target": "http://mirrors.covariant.cn/covscript/comm_dist/str_tools.csp",
+    "Target": "http://mirrors.covariant.cn/covscript/cspkg/universal/str_tools.csp",
     "Dependencies": []
 }

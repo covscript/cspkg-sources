@@ -3,6 +3,6 @@
     "Info": "ImGUI OpenGL3 Extension",
     "Author": "CovScript Organization",
     "Version": "1.0.0",
-    "Target": "http://mirrors.covariant.cn/covscript/cspkg/windows/x86_64/imgui.cse",
+    "Target": "http://mirrors.covariant.cn/covscript/cspkg/linux/x86_64/imgui.cse",
     "Dependencies": []
 }

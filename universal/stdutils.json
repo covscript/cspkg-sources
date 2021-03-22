@@ -3,6 +3,6 @@
     "Info": "Standard Utilities",
     "Author": "CovScript Organization",
     "Version": "1.0.0",
-    "Target": "http://mirrors.covariant.cn/covscript/comm_dist/stdutils.csp",
+    "Target": "http://mirrors.covariant.cn/covscript/cspkg/universal/stdutils.csp",
     "Dependencies": []
 }

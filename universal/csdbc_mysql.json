@@ -1,0 +1,13 @@
+{
+    "Name": "csdbc_mysql",
+    "Info": "CSDBC MySQL Driver",
+    "Author": "CovScript Organization",
+    "Version": "1.0.0",
+    "Target": "http://mirrors.covariant.cn/covscript/cspkg/universal/csdbc_mysql.csp",
+    "Dependencies": [
+        "database",
+        "codec",
+        "csdbc",
+        "regex"
+    ]
+}
