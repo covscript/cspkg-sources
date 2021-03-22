@@ -1,0 +1,8 @@
+{
+    "Name": "csbuild",
+    "Info": "CovScript Build System",
+    "Author": "CovScript Organization",
+    "Version": "1.0.0",
+    "Target": "http://mirrors.covariant.cn/covscript/comm_dist/csbuild.csp",
+    "Dependencies": []
+}

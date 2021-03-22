@@ -1,0 +1,8 @@
+{
+    "Name": "code128",
+    "Info": "Code 128 Generator",
+    "Author": "CovScript Organization",
+    "Version": "1.0.0",
+    "Target": "http://mirrors.covariant.cn/covscript/comm_dist/code128.csp",
+    "Dependencies": []
+}

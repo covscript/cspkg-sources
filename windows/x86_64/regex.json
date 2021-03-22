@@ -1,0 +1,8 @@
+{
+    "Name": "regex",
+    "Info": "Regex Extension",
+    "Author": "CovScript Organization",
+    "Version": "1.0.0",
+    "Target": "http://mirrors.covariant.cn/covscript/win32_dist/build_x64/imports/regex.cse",
+    "Dependencies": []
+}

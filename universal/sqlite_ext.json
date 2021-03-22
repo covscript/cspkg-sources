@@ -1,0 +1,11 @@
+{
+    "Name": "sqlite_ext",
+    "Info": "SQLite3 Extension",
+    "Author": "CovScript Organization",
+    "Version": "1.0.0",
+    "Target": "http://mirrors.covariant.cn/covscript/comm_dist/sqlite_ext.csp",
+    "Dependencies": [
+        "sqlite",
+        "regex"
+    ]
+}

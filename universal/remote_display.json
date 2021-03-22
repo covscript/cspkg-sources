@@ -1,0 +1,11 @@
+{
+    "Name": "remote_display",
+    "Info": "Remote Display Protocol",
+    "Author": "CovScript Organization",
+    "Version": "1.0.0",
+    "Target": "http://mirrors.covariant.cn/covscript/comm_dist/remote_display.csp",
+    "Dependencies": [
+        "darwin",
+        "network"
+    ]
+}
