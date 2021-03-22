@@ -1,6 +1,9 @@
 {
     "code128": "https://raw.githubusercontent.com/covscript/cspkg-sources/main/universal/code128.json",
     "csbuild": "https://raw.githubusercontent.com/covscript/cspkg-sources/main/universal/csbuild.json",
+    "csdbc": "https://raw.githubusercontent.com/covscript/cspkg-sources/main/universal/csdbc.json",
+    "csdbc_mysql": "https://raw.githubusercontent.com/covscript/cspkg-sources/main/universal/csdbc_mysql.json",
+    "csdbc_sqlite": "https://raw.githubusercontent.com/covscript/cspkg-sources/main/universal/csdbc_sqlite.json",
     "hash_table": "https://raw.githubusercontent.com/covscript/cspkg-sources/main/universal/hash_table.json",
     "picasso": "https://raw.githubusercontent.com/covscript/cspkg-sources/main/universal/picasso.json",
     "remote_display": "https://raw.githubusercontent.com/covscript/cspkg-sources/main/universal/remote_display.json",
