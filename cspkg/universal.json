@@ -1,5 +1,4 @@
 {
-    "code128": "https://raw.githubusercontent.com/covscript/cspkg-sources/main/universal/code128.json",
     "csbuild": "https://raw.githubusercontent.com/covscript/cspkg-sources/main/universal/csbuild.json",
     "csdbc": "https://raw.githubusercontent.com/covscript/cspkg-sources/main/universal/csdbc.json",
     "csdbc_mysql": "https://raw.githubusercontent.com/covscript/cspkg-sources/main/universal/csdbc_mysql.json",
@@ -9,5 +8,7 @@
     "remote_display": "https://raw.githubusercontent.com/covscript/cspkg-sources/main/universal/remote_display.json",
     "sqlite_ext": "https://raw.githubusercontent.com/covscript/cspkg-sources/main/universal/sqlite_ext.json",
     "stdutils": "https://raw.githubusercontent.com/covscript/cspkg-sources/main/universal/stdutils.json",
-    "str_tools": "https://raw.githubusercontent.com/covscript/cspkg-sources/main/universal/str_tools.json"
+    "str_tools": "https://raw.githubusercontent.com/covscript/cspkg-sources/main/universal/str_tools.json",
+    "code128": "https://raw.githubusercontent.com/chengdu-zhirui/property-manager/main/cspkg/code128.json",
+    "zhirui_erp": "https://raw.githubusercontent.com/chengdu-zhirui/property-manager/main/cspkg/zhirui_erp.json"
 }
