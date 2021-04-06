@@ -1,15 +1,4 @@
 {
     "base_url" : "https://raw.githubusercontent.com/covscript/cspkg-sources/main/cspkg/",
-    "universal": "universal.json",
-    "windows": {
-        "x86_64": "windows_x86_64.json"
-    },
-    "linux": {
-        "armv7l": "linux_armv7l.json",
-        "x86_64": "linux_x86_64.json",
-        "mips64": "linux_mips64.json"
-    },
-    "macos": {
-        "i386": "macos_i386.json"
-    }
+    "universal": "universal.json"
 }

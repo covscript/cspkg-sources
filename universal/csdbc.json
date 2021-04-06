@@ -1,8 +1,0 @@
-{
-    "Name": "csdbc",
-    "Info": "CovScript Database Connectivity Header",
-    "Author": "CovScript Organization",
-    "Version": "1.0.0",
-    "Target": "http://mirrors.covariant.cn/covscript/cspkg/universal/csdbc.csp",
-    "Dependencies": []
-}

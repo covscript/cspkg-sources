@@ -1,8 +1,0 @@
-{
-    "Name": "stdutils",
-    "Info": "Standard Utilities",
-    "Author": "CovScript Organization",
-    "Version": "1.0.0",
-    "Target": "http://mirrors.covariant.cn/covscript/cspkg/universal/stdutils.csp",
-    "Dependencies": []
-}
